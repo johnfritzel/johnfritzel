@@ -11,7 +11,7 @@ body {
   }
   
   header {
-    background-color: #f0f0f0;
+    background-color: #0b0ec6;
     padding-top: 1rem;
   }
   
@@ -34,7 +34,7 @@ body {
   }
   
   nav a:hover {
-    background-color: #ddd;
+    background-color: #cb0c0c;
   }
   
   .section {
