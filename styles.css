@@ -1,11 +1,13 @@
 .image-container {
-    width: 1366px; 
+    width: 3000px; 
     white-space: nowrap; /* Prevent images from wrapping */
   }
   
   .image-container img {
     display: inline-block;
-    width: 1366px; 
+    width: 3000px; 
     height: auto; /* Maintain aspect ratio */
   }
-  
+body {
+    background-color: #F4F1E8;
+}
