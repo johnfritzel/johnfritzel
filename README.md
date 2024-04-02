@@ -31,6 +31,7 @@ A highly motivated and results-oriented chemical engineer transitioning into sof
 
 #### [Coca-Cola FEMSA](https://coca-colafemsa.com/en/)
 **Quality Assurance Analyst (Oct 2016 - Feb 2017)**
+
 <br />
 
 ## 🌱 Projects
