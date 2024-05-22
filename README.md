@@ -24,10 +24,7 @@ A highly motivated and results-oriented chemical engineer transitioning into sof
 **Software Engineer Intern (Jan 2024 - Present)**
 
 #### [First Farmers Holding Corporation](https://firstfarmersholding.com/ffhc/#)
-**Raw House Supervisor (Nov 2023 - Present)**
-
-#### [First Farmers Holding Corporation](https://firstfarmersholding.com/ffhc/#)
-**Raw House Staff Engineer (Aug 2017 - Nov 2023)**
+**Raw House Staff Engineer (Aug 2017 - Present)**
 
 #### [Coca-Cola FEMSA](https://coca-colafemsa.com/en/)
 **Quality Assurance Analyst (Oct 2016 - Feb 2017)**
