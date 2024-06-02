@@ -22,16 +22,20 @@ A highly motivated and results-oriented chemical engineer transitioning into sof
 ## 💼 Work Experience
 #### [HYBrain](https://hybrain.ph/)
 **Software Engineer Intern (Jan 2024 - Present)**
-
+&nbsp;
+<br />
 #### [First Farmers Holding Corporation](https://firstfarmersholding.com/ffhc/#)
 **Raw House Staff Engineer (Aug 2017 - Present)**
-
+&nbsp;
+<br />
 #### [Coca-Cola FEMSA](https://coca-colafemsa.com/en/)
 **Quality Assurance Analyst (Oct 2016 - Feb 2017)**
 
 <br />
 
 ## 🌱 Projects
+- [Cryptocurrency: ETL and Analysis](https://github.com/johnfritzel/crypto-etl): This is an Extract, Transform, and Load (ETL) pipeline to gather cryptocurrency data from CoinMarketCap via web scraping. The clean data is then stored in a PostgreSQL database, readily available for analysis and visualization through an interactive dashboard.
+
 - [Spreadsheet SQL Mapper](https://github.com/johnfritzel/spreadsheet-sql-mapper): This Django API lets you upload spreadsheets (.xls or .xlsx only) and import their data into your database. It checks for:
   - Valid file formats (xls/xlsx)
   - Empty files
