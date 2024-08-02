@@ -20,16 +20,12 @@ A highly motivated and results-oriented chemical engineer transitioning into sof
 
 
 ## 💼 Work Experience
-#### [HYBrain](https://hybrain.ph/)
-**Software Engineer Intern (Jan 2024 - Present)**
+### Raw House Staff Engineer (Aug 2017 - Present)
+  *[First Farmers Holding Corporation](https://firstfarmersholding.com/ffhc/#)*
 &nbsp;
 <br />
-#### [First Farmers Holding Corporation](https://firstfarmersholding.com/ffhc/#)
-**Raw House Staff Engineer (Aug 2017 - Present)**
-&nbsp;
-<br />
-#### [Coca-Cola FEMSA](https://coca-colafemsa.com/en/)
-**Quality Assurance Analyst (Oct 2016 - Feb 2017)**
+### Quality Assurance Analyst (Oct 2016 - Feb 2017)
+  *[Coca-Cola FEMSA](https://coca-colafemsa.com/en/)*
 
 <br />
 
