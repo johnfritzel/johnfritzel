@@ -1,4 +1,3 @@
-# John Fritzel Macalisang
 
 **`Chemical Engineer | Software Engineer`**
 
