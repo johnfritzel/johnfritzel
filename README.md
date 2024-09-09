@@ -1,9 +1,6 @@
 
 **`Chemical Engineer | Software Engineer`**
 
-A highly motivated and results-oriented chemical engineer transitioning into software engineering. Leveraging strong analytical and problem-solving skills honed in 8 years of experience optimizing production efficiency, to excel in building efficient and scalable software solutions.
-<br />
-
 ## 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
