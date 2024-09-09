@@ -15,18 +15,6 @@ A highly motivated and results-oriented chemical engineer transitioning into sof
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" />
 
 <br />
-<br />
-
-
-## 💼 Work Experience
-### Raw House Staff Engineer (Aug 2017 - Present)
-  *[First Farmers Holding Corporation](https://firstfarmersholding.com/ffhc/#)*
-&nbsp;
-<br />
-### Quality Assurance Analyst (Oct 2016 - Feb 2017)
-  *[Coca-Cola FEMSA](https://coca-colafemsa.com/en/)*
-
-<br />
 
 ## 🌱 Projects
 - [Cryptocurrency: ETL and Analysis](https://github.com/johnfritzel/crypto-etl): This is an Extract, Transform, and Load (ETL) pipeline to gather cryptocurrency data from CoinMarketCap via web scraping. The clean data is then stored in a PostgreSQL database, readily available for analysis and visualization through an interactive dashboard.
