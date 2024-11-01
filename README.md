@@ -1,5 +1,5 @@
 
-**`Chemical Engineer | Software Engineer`**
+**`Chemical Engineer | Data Analyst`**
 
 ## 🧰 Languages and Tools
 
