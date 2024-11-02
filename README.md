@@ -2,7 +2,7 @@
 **`Chemical Engineer | Data Analyst`**
 
 ## Projects
-- [Healthcare Staffing Data Analysis](https://github.com/johnfritzel/staffing-management): This project utilizes SQL to process and analyze healthcare staffing data. The process involves cleaning, standardizing, and transforming nurse staffing records, with a focus on timecard entries, billing information, and shift details. The transformed data is then visualized and analyzed using Power BI.
+- [Healthcare Staffing Data Analysis](https://github.com/johnfritzel/staffing-management): This project utilizes MySQL to process and analyze healthcare staffing data. The process involves cleaning, standardizing, and transforming nurse staffing records, with a focus on timecard entries, billing information, and shift details. The transformed data is then visualized and analyzed using Power BI.
 
 - [E-commerce Data Pipeline and Analysis](https://github.com/johnfritzel/ecommerce-pipeline-analysis): This is an Extract, Transform, and Load (ETL) pipeline that processes and cleans e-commerce datasets from [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data), a Brazilian e-commerce platform, and uploads the cleaned data to a PostgreSQL database.
   
