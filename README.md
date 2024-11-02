@@ -14,7 +14,7 @@
 <br />
 
 ## 🌱 Projects
-- [Cryptocurrency: ETL and Analysis](https://github.com/johnfritzel/crypto-etl): This is an Extract, Transform, and Load (ETL) pipeline to gather cryptocurrency data from CoinMarketCap via web scraping. The clean data is then stored in a PostgreSQL database, readily available for analysis and visualization through an interactive dashboard.
+- [Cryptocurrency Data Pipeline](https://github.com/johnfritzel/crypto-etl): This is an Extract, Transform, and Load (ETL) pipeline to gather cryptocurrency data from CoinMarketCap via web scraping. The clean data is then stored in a PostgreSQL database, readily available for analysis and visualization through an interactive dashboard.
 
 - [Spreadsheet SQL Mapper](https://github.com/johnfritzel/spreadsheet-sql-mapper): This Django API lets you upload spreadsheets (.xls or .xlsx only) and import their data into your database. It checks for:
   - Valid file formats (xls/xlsx)
