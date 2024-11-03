@@ -1,4 +1,4 @@
-
+!["data analyst"](data%20analyst%20image.png)
 **`Chemical Engineer | Data Analyst`**
 
 ## Projects
