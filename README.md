@@ -1,10 +1,10 @@
 **`Chemical Engineer | Data Analyst`**
 
 ## Projects
+- [E-commerce Analysis with Data Pipeline](https://github.com/johnfritzel/ecommerce-pipeline-analysis.git): This project provides a comprehensive data processing pipeline for cleaning, analyzing, and importing e-commerce dataset from [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) into a MySQL database. The pipeline includes data profiling, cleaning, and exploratory data analysis capabilities.
+  
 - [Healthcare Staffing Data Analysis](https://github.com/johnfritzel/staffing-management): This project utilizes MySQL to process and analyze healthcare staffing data. The process involves cleaning, standardizing, and transforming nurse staffing records, with a focus on timecard entries, billing information, and shift details. The transformed data is then visualized and analyzed using Power BI.
 
-- [E-commerce Data Pipeline and Analysis](https://github.com/johnfritzel/ecommerce-pipeline): This is an Extract, Transform, and Load (ETL) pipeline that processes and cleans e-commerce datasets from [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data), a Brazilian e-commerce platform, and uploads the cleaned data to a PostgreSQL database.
-  
 - [Cryptocurrency Data Pipeline](https://github.com/johnfritzel/crypto-etl): This is an Extract, Transform, and Load (ETL) pipeline to gather cryptocurrency data from CoinMarketCap via **Web Scraping**. The clean data is then stored in a PostgreSQL database, readily available for analysis and visualization through an interactive dashboard.
 
 - [Spreadsheet SQL Mapper](https://github.com/johnfritzel/spreadsheet-sql-mapper): This Django API lets you upload spreadsheets (.xls or .xlsx only) and import their data into your database. It checks for:
