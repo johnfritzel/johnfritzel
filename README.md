@@ -1,4 +1,4 @@
-**`Chemical Engineer | Data Analyst`**
+**`Chemical Engineer | Database Analyst`**
 
 ## Projects
 - [E-commerce Analysis with Data Pipeline](https://github.com/johnfritzel/ecommerce-pipeline-analysis.git): This project provides a comprehensive data processing pipeline for cleaning, analyzing, and importing e-commerce dataset from [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) into a MySQL database. The pipeline includes data profiling, cleaning, and exploratory data analysis capabilities.
