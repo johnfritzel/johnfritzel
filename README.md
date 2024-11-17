@@ -1,6 +1,8 @@
 **`Chemical Engineer | Database Analyst`**
 
 ## Projects
+- [Weather Dashboard Powered by OpenWeatherMap API](https://github.com/johnfritzel/weather-api-dashboard.git): An end-to-end weather data collection and visualization process that integrates Python for automated data retrieval via the OpenWeatherMap API and MySQL for seamless data storage. The system gathers weather data from over 300 major cities worldwide and delivers insights through interactive Power BI dashboard.
+  
 - [E-commerce Analysis with Data Pipeline](https://github.com/johnfritzel/ecommerce-pipeline-analysis.git): This project provides a comprehensive data processing pipeline for cleaning, analyzing, and importing e-commerce dataset from [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) into a MySQL database. The pipeline includes data profiling, cleaning, and exploratory data analysis capabilities.
   
 - [Healthcare Staffing Data Analysis](https://github.com/johnfritzel/staffing-management): This project utilizes MySQL to process and analyze healthcare staffing data. The process involves cleaning, standardizing, and transforming nurse staffing records, with a focus on timecard entries, billing information, and shift details. The transformed data is then visualized and analyzed using Power BI.
