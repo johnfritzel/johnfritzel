@@ -1,4 +1,4 @@
-**`Chemical Engineer | Database Analyst`**
+
 
 ## Projects
 - [Weather Dashboard Powered by OpenWeatherMap API](https://github.com/johnfritzel/weather-api-dashboard.git): An end-to-end weather data collection and visualization process that integrates Python for automated data retrieval via the OpenWeatherMap API and MySQL for seamless data storage. The system gathers weather data from over 300 major cities worldwide and delivers insights through interactive Power BI dashboard.
