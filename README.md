@@ -1,5 +1,10 @@
 ## Projects
+- [Sales Report: Data Pipeline and Power BI Dashboard](https://github.com/johnfritzel/sales-pipeline-analysis): This project creates a data pipeline to transform Excel sales data into interactive Power BI visualizations. A Python script extracts data from multiple Excel worksheets and loads it into a PostgreSQL database as individual tables. Power BI connects to the database to generate dynamic sales dashboards.
+  
+- [Best-Selling Singles: Web Scraping and Power BI Dashboard](https://github.com/johnfritzel/best-selling-singles): This project establishes a data pipeline to extract best-selling singles data from a specified url and load it into a PostgreSQL database. Power BI leverages this database to generate dynamic sales dashboards.
+  
 - [Retail Sales Data Pipeline and Analysis](https://github.com/johnfritzel/retail-pipeline-analysis.git):A robust data pipeline for processing and analyzing [Best Buy](https://www.kaggle.com/datasets/staykoks/best-buy-sales) retail sales datafrom Kaggle, featuring automated data cleaning, validation, database storage, and comprehensive sales analytics.
+  
 - [Weather Dashboard Powered by OpenWeatherMap API](https://github.com/johnfritzel/weather-api-dashboard.git): An end-to-end weather data collection and visualization process that integrates Python for automated data retrieval via the OpenWeatherMap API and MySQL for seamless data storage. The system gathers weather data from over 300 major cities worldwide and delivers insights through interactive Power BI dashboard.
   
 - [E-commerce Analysis with Data Pipeline](https://github.com/johnfritzel/ecommerce-pipeline-analysis.git): This project provides a comprehensive data processing pipeline for cleaning, analyzing, and importing e-commerce dataset from [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) into a MySQL database. The pipeline includes data profiling, cleaning, and exploratory data analysis capabilities.
